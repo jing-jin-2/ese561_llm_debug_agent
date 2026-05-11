@@ -62,11 +62,6 @@ main.py        # CLI entry point
 examples/      # Buggy samples and tests
 ```
 
-## Documentation
-
-- [DESIGN.md](DESIGN.md) — full architecture, every functional unit, scoring rules, execution flow
-- [report.pdf](report.pdf) — final project report (motivation, method, design choices)
-
 ## Requirements
 
 - Python 3.9+
